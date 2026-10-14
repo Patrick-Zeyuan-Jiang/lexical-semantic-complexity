@@ -1,0 +1,11 @@
+# Colab 已有 PyTorch：保留原 GPU 版本；要求 torch >= 2.6。
+# 全新非 Colab 环境请先按 https://pytorch.org/get-started/locally/ 安装 torch。
+transformers==4.57.6
+sentencepiece==0.2.1
+protobuf>=4.25,<7
+beautifulsoup4==4.14.3
+lxml>=5.3,<7
+nltk==3.10.3
+numpy>=1.26,<3
+tqdm>=4.66,<5
+

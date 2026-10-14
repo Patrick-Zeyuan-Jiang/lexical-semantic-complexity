@@ -1,0 +1,3 @@
+* text=auto
+ode_wsd/*.py -text
+requirements.txt -text

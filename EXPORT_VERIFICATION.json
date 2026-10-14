@@ -1,0 +1,26 @@
+{
+  "source_matches_existing_bank": true,
+  "bank_files_verified": 4,
+  "bank_manifest_sha256": "904c9f9ea50d6933fbf57eeb4b61b07f555d13a44c27a2fc920671888cd81233",
+  "bank_fingerprint": "6025057d2240c474517346af6684e3918f0358cc8fd7a228a139eb423678c8c8",
+  "implementation_sha256": "e47f157963b78cab1fc0fb0a05c209ad9d0177419496d3df27aeb401c5cb8d84",
+  "encoder_identity": {
+    "model_name": "microsoft/deberta-v3-base",
+    "revision": "8ccc9b6f36199bec6961081d44eb72fb3f7353f3",
+    "layer": 7,
+    "max_length": 512,
+    "batch_size": 16,
+    "effective_max_length": 512,
+    "hidden_size": 768,
+    "subword_pooling": "arithmetic_mean",
+    "example_normalization": "none",
+    "prototype_pooling": "arithmetic_mean",
+    "precision": "float32",
+    "windowing": "target_centered_whole_words",
+    "eval_mode": true,
+    "torch_version": "2.11.0+cu128",
+    "transformers_version": "4.57.6",
+    "pretrained": true
+  },
+  "validation_scope": "source bytes and bank file hashes; no inference or accuracy evaluation"
+}

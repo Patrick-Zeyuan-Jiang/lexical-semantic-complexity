@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+bank/
+dataset/
+checkpoints/
+evaluation/
+*.npy
+*.npz
+*.mdx
+*.mdd
+.env

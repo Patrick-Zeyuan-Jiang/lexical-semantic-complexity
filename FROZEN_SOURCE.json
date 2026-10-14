@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "files": {
+    "ode_wsd/__init__.py": "06a40e2cfd7984255bda324cf30a10fd589b606cfc3e5e54555de3d18f725370",
+    "ode_wsd/__main__.py": "1296116c306369016cc9a2896a7707828903b958da402137ac4b7942e67c82d5",
+    "ode_wsd/bank.py": "97860ec14f2e332c2afb4ea6156cd376395e25d28ee67ce4c3ce57f32ca753dd",
+    "ode_wsd/common.py": "15739ab76c0071b3f3221262166d81eb614046c5c81f4c0fc21537a79d1fafc5",
+    "ode_wsd/dataset.py": "d5419ad5f6e08c0ff47dd059956c44044f3f9cad57af3c7bea4487421de7fb33",
+    "ode_wsd/encoder.py": "30fb741a1581d1218d218e547ba5225ae4e34ff55c7cad942b3726ededb99bc8",
+    "ode_wsd/evaluate.py": "f89b1f727ef92fcca26e4310cdfd1c3707e43fde73124ba514b5c59c549096cc",
+    "ode_wsd/nlp.py": "de1a4c402baf3675313628c34a762bf6fb32487c3e95732f7c522de21fce2e9c",
+    "ode_wsd/parser.py": "0d9d1b2016fc057e0984f1945eabe35cbaf6ed7856288f4dac9b3d39ace46ae5",
+    "ode_wsd/wsd.py": "2438800159b92e17a6cce10a0ad8ab0ad4a42142ad65824c4dbf677bcf2ef56d",
+    "requirements.txt": "f5794d9a1ffad7915d7e59e780d3c3b618c25c6c5ed66dd401f2c81f6ced90cb"
+  },
+  "implementation_sha256": "e47f157963b78cab1fc0fb0a05c209ad9d0177419496d3df27aeb401c5cb8d84",
+  "provenance": {
+    "source_mode": "original_notebook_literal_extraction",
+    "original_notebook_filename": "9_30_基于Teglia模型的向量库与WSD工具构建.ipynb",
+    "original_notebook_sha256": "699b2d75dc6b63211414de115904cd213ce646909d670000415515864c26fa02",
+    "source_cells_zero_based": {
+      "requirements.txt": 4,
+      "ode_wsd/__init__.py": 6,
+      "ode_wsd/common.py": 7,
+      "ode_wsd/parser.py": 8,
+      "ode_wsd/nlp.py": 9,
+      "ode_wsd/dataset.py": 10,
+      "ode_wsd/encoder.py": 11,
+      "ode_wsd/bank.py": 12,
+      "ode_wsd/wsd.py": 13,
+      "ode_wsd/evaluate.py": 14,
+      "ode_wsd/__main__.py": 15
+    },
+    "original_patch_cell_zero_based": 22,
+    "executed_original_notebook_code": false
+  },
+  "new_packaging_files_are_not_original_wsd_source": true
+}

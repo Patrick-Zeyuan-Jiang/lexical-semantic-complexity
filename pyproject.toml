@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ode-wsd"
+version = "1.0.0"
+description = "Frozen original ODE prototype-based WSD"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["torch>=2.6", "transformers==4.57.6", "sentencepiece==0.2.1", "protobuf>=4.25,<7", "beautifulsoup4==4.14.3", "lxml>=5.3,<7", "nltk==3.10.3", "numpy>=1.26,<3", "tqdm>=4.66,<5"]
+
+[tool.setuptools]
+packages = ["ode_wsd"]
